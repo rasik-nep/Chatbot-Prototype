@@ -1,0 +1,1 @@
+I have creaeted a simple chatbot using langchain and OpenAPI Chat API.  What is actually happening in the background here is that the pdf’s text is being sent to the OpenAPI Chat API, along with the query, all in a single request. 
